@@ -1,7 +1,7 @@
 # CS-Search-Numbers
 A console application that will prompt the user for a series of integers and then provide stats about the numbers provided. 
 
-The application keeps prompting users to enter integers, one at a time. Note: For this lab, your application does not have to handle the situation when the user enters non-integers.
+The application keeps prompting users to enter integers, one at a time.
 When the user presses the “Enter” key without entering anything at a prompter. The application displays the following:
   The maximum value of all integers entered.
   The minimum value of all integers entered.
